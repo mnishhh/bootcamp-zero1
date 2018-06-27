@@ -1,0 +1,26 @@
+MINUTES ODF MEETING
+
+OBJECTIVE- discussion about to  work on an upcoming project
+
+meeting persons-  developer and boss.
+
+discussion- it all about  meeting in which their has been a discussion about the optimization of code ,side project and campaign summary.
+bharat the person has to prepare ten question about the code and how more they could add in their  database 
+and he has to present excel sheet too
+
+
+in their contract stratgy they discuss about campaign id form, and return result and run only for single campign id
+
+bharat their developer here wants to do fist change and copy code go for testing
+
+mains points to work on-
+1optimization of code
+2solve one of error query from oracle
+3campaign summary
+4solve 0008 error variable bound in database
+5its should be on monday
+
+developer need to do
+1dummy structure
+2form
+ here kelyy who is the resources provider and fund to the company 
